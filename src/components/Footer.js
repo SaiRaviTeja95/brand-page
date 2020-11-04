@@ -36,9 +36,9 @@ const Footer = () => {
                 </div>
             </div>
             <div className="footerLogo">
-                <img src={Facebook} alt=""/>
-                <img src={Instagram} alt=""/>
-                <img src={Twitter} alt=""/>
+                <a href="https://www.facebook.com"><img src={Facebook} alt=""/></a>
+                <a href="https://www.instagram.com"><img src={Instagram} alt=""/></a>
+                <a href="https://www.twitter.com"><img src={Twitter} alt=""/></a>
             </div>
             <button className="viewMore"><p>VIEW MORE</p></button>
         </div>

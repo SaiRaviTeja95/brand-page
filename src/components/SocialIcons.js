@@ -8,10 +8,10 @@ import Twitter from "../img/social icons/Twitter.png"
 const SocialIcons = () => {
     return (
         <div className="socialIcons">
-            <a className="links" href=""><img src={Google} alt=""/></a>
-            <a className="links" href=""><img src={Instagram} alt=""/></a>
-            <a className="links" href=""><img src={Facebook} alt=""/></a>
-            <a className="links" href=""><img src={Twitter} alt=""/></a>
+            <a className="links" href="https://www.google.com"><img src={Google} alt=""/></a>
+            <a className="links" href="https://www.instagram.com"><img src={Instagram} alt=""/></a>
+            <a className="links" href="https://www.facebook.com"><img src={Facebook} alt=""/></a>
+            <a className="links" href="https://www.twitter.com"><img src={Twitter} alt=""/></a>
         </div>
     )
 }
