@@ -19,15 +19,15 @@ body {
 }
 
 .brandLogo {
-    width: 121.6px;
-    height: 38.8px;
+    width: 12.16rem;
+    height: 3.88rem;
     margin-left: 3rem;
     margin-left: 5rem;
 }
 
 .NavLinks {
     text-decoration: none;
-    font-family: OpenSans;
+    font-family: 'OpenSans';
     font-size: 1.4rem;
     font-weight: 600;
     font-stretch: normal;
@@ -40,8 +40,8 @@ body {
 }
 
 .InfluencerLogo {
-    width: 853px;
-    height: 853px;
+    width: 85.3rem;
+    height: 85.3rem;
     margin-left: 50px;
     object-fit: contain;
 }
@@ -52,8 +52,8 @@ body {
 }
 
 .signIn {
-    margin-top: 119px;
-    margin-left: -250px;
+    margin-top: 11.9rem;
+    margin-left: -25rem;
     font-family: OpenSans;
     /* font-size: 30px; */
     font-size: 3rem;
@@ -99,7 +99,7 @@ body {
 .label {
     object-fit: contain;
     font-family: OpenSans;
-    font-size: 14px;
+    font-size: 1.4rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
