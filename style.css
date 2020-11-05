@@ -36,13 +36,13 @@ body {
     letter-spacing: normal;
     text-align: left;
     color: #424447;
-    margin-right: 30px;
+    margin-right: 3rem;
 }
 
 .InfluencerLogo {
     width: 85.3rem;
     height: 85.3rem;
-    margin-left: 50px;
+    margin-left: 5rem;
     object-fit: contain;
 }
 
@@ -54,7 +54,7 @@ body {
 .signIn {
     margin-top: 11.9rem;
     margin-left: -25rem;
-    font-family: OpenSans;
+    font-family: 'OpenSans';
     /* font-size: 30px; */
     font-size: 3rem;
     font-weight: 600;
@@ -81,7 +81,7 @@ body {
     margin-top: 4.2rem;
     margin-bottom: 4rem;
     object-fit: contain;
-    font-family: OpenSans;
+    font-family: 'OpenSans';
     font-size: 18px;
     font-weight: 600;
     font-stretch: normal;
@@ -98,7 +98,7 @@ body {
 
 .label {
     object-fit: contain;
-    font-family: OpenSans;
+    font-family: 'OpenSans';
     font-size: 1.4rem;
     font-weight: normal;
     font-stretch: normal;
@@ -138,8 +138,8 @@ body {
 .signBtn a {
     text-decoration: none;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 12px;
+    font-family: 'OpenSans';
+    font-size: 1.2rem;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -152,8 +152,8 @@ body {
 .OR {
     margin-top: 3rem;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 14px;
+    font-family: 'OpenSans';
+    font-size: 1.4rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -167,8 +167,8 @@ body {
     margin-top: 2.5rem;
     margin-bottom: 2rem;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 16px;
+    font-family: 'OpenSans';
+    font-size: 1.6rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -192,8 +192,8 @@ body {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 8.3rem;
-    font-family: OpenSans;
-    font-size: 18px;
+    font-family: 'OpenSans';
+    font-size: 1.8rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -213,7 +213,7 @@ body {
 
 .line1 {
     width: 0;
-    height: 70.7px;
+    height: 7.07rem;
     margin-top: -17rem;
     margin-left: 12rem;
     border: 1px solid #fac912;
@@ -225,8 +225,8 @@ body {
 }
 
 .count {
-    font-family: OpenSans;
-    font-size: 24px;
+    font-family: 'OpenSans';
+    font-size: 2.4rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -238,8 +238,8 @@ body {
 
 .special {
     margin-bottom: 8rem;
-    font-family: OpenSans;
-    font-size: 14px;
+    font-family: 'OpenSans';
+    font-size: 1.4rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -251,7 +251,7 @@ body {
 
 .line2 {
     width: 0;
-    height: 70.7px;
+    height: 7.07rem;
     margin-top: -14rem;
     margin-left: 24rem;
     border: 1px solid #fac912;
@@ -264,7 +264,7 @@ body {
 
 .line3 {
     width: 0;
-    height: 70.7px;
+    height: 7.07rem;
     margin-top: -14rem;
     margin-left: 41rem;
     border: 1px solid #fac912;
@@ -277,7 +277,7 @@ body {
 
 .line4 {
     width: 0;
-    height: 70.7px;
+    height: 7.07rem;
     margin-top: -14rem;
     margin-left: 55rem;
     border: 1px solid #fac912;
@@ -290,7 +290,7 @@ body {
 
 .line5 {
     width: 0;
-    height: 70.7px;
+    height: 7.07rem;
     margin-top: -14rem;
     margin-left: 68rem;
     border: 1px solid #fac912;
@@ -308,7 +308,7 @@ body {
     margin-left: 19.4rem;
     margin-bottom: 2.15rem;
     object-fit: contain;
-    font-family: OpenSans;
+    font-family: 'OpenSans';
     font-size: 30px;
     font-weight: 600;
     font-stretch: normal;
@@ -333,8 +333,8 @@ hr {
 }
 
 .subscribe {
-    width: 315px;
-    height: 19px;
+    width: 31.5rem;
+    height: 1.9rem;
     margin-top: 2.5rem;
     margin-bottom: 1.4rem;
     font-family: 'OpenSans';
@@ -349,10 +349,10 @@ hr {
 }
 
 .detail {
-    width: 258px;
-    height: 77px;
-    font-family: OpenSans;
-    font-size: 12px;
+    width: 25.8rem;
+    height: 7.7rem;
+    font-family: 'OpenSans';
+    font-size: 1.2rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -368,14 +368,14 @@ hr {
 }
 
 .contact {
-    width: 720px;
-    height: 24px;
+    width: 72rem;
+    height: 2.4rem;
     margin-top: 7.3rem;
     margin-left: auto;
     margin-right: auto;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 18px;
+    font-family: 'OpenSans';
+    font-size: 1.8rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -402,8 +402,8 @@ hr {
 .celebNote {
     padding-top: 6.6rem;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 30px;
+    font-family: 'OpenSans';
+    font-size: 3rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -464,8 +464,8 @@ hr {
 
 .celebName {
     margin-top: 2.3rem;
-    font-family: OpenSans;
-    font-size: 18px;
+    font-family: 'OpenSans';
+    font-size: 1.8rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -477,8 +477,8 @@ hr {
 
 .celebDesign {
     margin-top: 0.3rem;
-    font-family: OpenSans;
-    font-size: 14px;
+    font-family: 'OpenSans';
+    font-size: 1.4rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -497,8 +497,8 @@ hr {
     margin-left: auto;
     margin-right: auto;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 12px;
+    font-family: 'OpenSans';
+    font-size: 1.2rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -518,7 +518,7 @@ hr {
 .check {
     padding-top: 10rem;
     font-family: 'OpenSans';
-    font-size: 32px;
+    font-size: 3.2rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -546,8 +546,8 @@ hr {
 .data {
     margin-top: 25.7rem;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 22px;
+    font-family: 'OpenSans';
+    font-size: 2.2rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -572,8 +572,8 @@ hr {
 
 .things button p {
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 16px;
+    font-family: 'OpenSans';
+    font-size: 1.6rem;
     font-weight: bold;
     font-stretch: normal;
     font-style: normal;
@@ -587,7 +587,7 @@ hr {
     margin-top: 2.2rem;
     object-fit: contain;
     font-family: 'OpenSans';
-    font-size: 18px;
+    font-size: 1.8rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -598,29 +598,29 @@ hr {
 }
 
 .arrow {
-    width: 20px;
-    height: 20px;
+    width: 2rem;
+    height: 2rem;
     object-fit: contain;
     border: solid 5px #8a8a8a;
     border-width: 0 3px 3px 0;
     display: inline-block;
-    padding: 3px;
+    padding: .3rem;
 }
 
 .down {
     margin-top: 0;
-    margin-left: 70pt;
-    border-top: 35px solid #262626;
-    border-left: 35px solid transparent;
-    border-right: 35px solid transparent;
+    margin-left: 7rem;
+    border-top: 3.5rem solid #262626;
+    border-left: 3.5rem solid transparent;
+    border-right: 3.5rem solid transparent;
     border-bottom-style: none;
 }
 
 .posts {
     margin-top: 13.24rem;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 24px;
+    font-family: 'OpenSans';
+    font-size: 2.4rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -633,8 +633,8 @@ hr {
 .hashtag {
     margin-top: 2.8rem;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 20px;
+    font-family: 'OpenSans';
+    font-size: 2rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -672,8 +672,8 @@ hr {
 .footerGrid a {
     text-decoration: none;
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 12px;
+    font-family: 'OpenSans';
+    font-size: 1.2rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -689,8 +689,8 @@ hr {
 
 .footerExplore {
     object-fit: contain;
-    font-family: OpenSans-Bold;
-    font-size: 36px;
+    font-family: 'OpenSans-Bold';
+    font-size: 3.6rem;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
@@ -712,8 +712,8 @@ hr {
 
 .footerEnd {
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 14px;
+    font-family: 'OpenSans';
+    font-size: 1.4rem;
     font-weight: 600;
     font-stretch: normal;
     font-style: normal;
@@ -746,8 +746,8 @@ hr {
 
 .viewMore p {
     object-fit: contain;
-    font-family: OpenSans;
-    font-size: 16px;
+    font-family: 'OpenSans';
+    font-size: 1.6rem;
     font-weight: 800;
     font-stretch: normal;
     font-style: normal;
